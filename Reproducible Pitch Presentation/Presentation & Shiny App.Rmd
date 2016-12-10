@@ -1,0 +1,54 @@
+---
+title: 'Course Project: Shiny Application and Reproducible Pitch'
+author: "Ghazouan Sabh"
+date: "10 December 2016"
+output:
+  ioslides_presentation: default
+  slidy_presentation: default
+---
+
+##
+**Overview**
+This is part 3 of assesment for the course Developing Data Products "Data Science Specialization."
+
+Source code for ui.R and server.R files are available on the GitHub repo: https://github.com/ghaz2015/Assessment3_shiny_app/tree/master
+
+
+## **Web Application functionality**
+This App will provid the best tools for selecting car for trip.
+
+It will requir you to provide trip details, like the distance of the trip and the cost of the petrol base of the area.
+
+It will need to calculate the petrol expenditure for each car. 
+The next step will provide your budget on the petrol.
+
+We can filter and type of cars with Miles Per Gallon (MPG) Which will be below the budget.
+
+**Part 2**
+Will give you list of desire cars in term of:
+- Cylinders
+- Displacement
+- Horse Power
+- Transmission
+
+## **MTCARS Dataset**
+The data has used in this APP has come from the Motor Trend Car Road Tests (MTCARS) dataset. Below the mtcars's summary.
+
+      mpg             cyl             disp             hp       
+ Min.   :10.40   Min.   :4.000   Min.   : 71.1   Min.   : 52.0  
+ 1st Qu.:15.43   1st Qu.:4.000   1st Qu.:120.8   1st Qu.: 96.5  
+ Median :19.20   Median :6.000   Median :196.3   Median :123.0  
+ Mean   :20.09   Mean   :6.188   Mean   :230.7   Mean   :146.7  
+ 3rd Qu.:22.80   3rd Qu.:8.000   3rd Qu.:326.0   3rd Qu.:180.0  
+ Max.   :33.90   Max.   :8.000   Max.   :472.0   Max.   :335.0  
+
+The relationship between miles per gallon (mpg) and displacement (disp) in the mtcars dataset.
+
+## **Plot**
+In this graph will show the relationship between miles per gallon (mpg) and displacement (disp) in the mtcars dataset.
+![Caption for the picture](/Macintosh HD/Users/ghaz/Desktop/unnamed-chunk-2-1)
+
+
+
+##
+Thank you for your support.
